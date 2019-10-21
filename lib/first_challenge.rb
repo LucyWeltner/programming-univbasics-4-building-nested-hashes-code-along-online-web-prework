@@ -3,5 +3,4 @@ def first_challenge
      :monague => {},
      :capulet => {}
    }
-      
 end
